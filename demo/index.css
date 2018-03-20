@@ -1,0 +1,30 @@
+html{
+    font-size:20px;
+    background:#CCFFFF;
+    color:white;
+}
+h2{
+    font-size:60px;
+    text-align:center;
+    margin:0;
+    padding:20px 0;
+    color:white;
+    text-shadow:5px 3px 7px #99CCCC;
+}
+p,li {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+body{
+    width:600px;
+    margin:0 auto;
+    background:#FFCCCC;
+    padding: 0 20px 20px 20px;
+    border: 5px solid white;
+}
+img{
+    disply:block;
+    width:600px;
+    margin:0 auto;
+
+}
